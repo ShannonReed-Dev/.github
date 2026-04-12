@@ -1,6 +1,8 @@
 # Shannon Reed Dev
 
 ### Finished
+- [Job-Application-Tracker](https://github.com/ShannonReed-Dev/Job-Application-Tracker)
+  - The standalone JAT that was built before the idea of the job ecosystem
 - [JobSearchEcosystem](https://github.com/ShannonReed-Dev/JobSearchEcosystem)
 - [Rouse JSE Recuriter Facing LandingPage](https://github.com/ShannonReed-Dev/RouseLandingPage)
 - [JSE Resume Tailor V1](https://github.com/ShannonReed-Dev/resumetailor)
@@ -11,7 +13,6 @@
 - [PersonalPortfolio](https://github.com/ShannonReed-Dev/PersonalPortfolio)
 - [ProjectDocs](https://github.com/ShannonReed-Dev/ProjectDocs)
 - [JSELandingPage](https://github.com/ShannonReed-Dev/JSELandingPage)
-- [work-vault-knowledge-base](https://github.com/ShannonReed-Dev/work-vault-knowledge-base)
+- [Work Valut ](https://github.com/ShannonReed-Dev/work-vault-knowledge-base)
 - [claude-valut](https://github.com/ShannonReed-Dev/claude-valut)
-- [Job-Application-Tracker](https://github.com/ShannonReed-Dev/Job-Application-Tracker)
 - [Knowledge-Base](https://github.com/ShannonReed-Dev/Knowledge-Base)
