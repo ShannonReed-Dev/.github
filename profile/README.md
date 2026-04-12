@@ -9,10 +9,20 @@
 - [JSE Job Application Tracker V1](https://github.com/ShannonReed-Dev/jobapplicationtrackerv2)
 - [Work Valut V1](https://github.com/ShannonReed-Dev/work-vault)
 
+---
+
 ### Currently Building
 - [PersonalPortfolio](https://github.com/ShannonReed-Dev/PersonalPortfolio)
-- [ProjectDocs](https://github.com/ShannonReed-Dev/ProjectDocs)
 - [JSELandingPage](https://github.com/ShannonReed-Dev/JSELandingPage)
-- [Work Valut ](https://github.com/ShannonReed-Dev/work-vault-knowledge-base)
+
+---
+
+### Continuous Development
+- [Work Valut Knowledge Base](https://github.com/ShannonReed-Dev/work-vault-knowledge-base)
+- [ProjectDocs](https://github.com/ShannonReed-Dev/ProjectDocs)
+
+---
+
+### Migrating
 - [claude-valut](https://github.com/ShannonReed-Dev/claude-valut)
 - [Knowledge-Base](https://github.com/ShannonReed-Dev/Knowledge-Base)
