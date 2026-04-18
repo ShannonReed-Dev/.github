@@ -18,11 +18,6 @@
 ---
 
 ### Continuous Development
-- [Work Valut Knowledge Base](https://github.com/ShannonReed-Dev/work-vault-knowledge-base)
+- [Work Valut Knowledge Base](https://github.com/ShannonReed-Dev/work-vault)
 - [ProjectDocs](https://github.com/ShannonReed-Dev/ProjectDocs)
 
----
-
-### Migrating
-- [claude-valut](https://github.com/ShannonReed-Dev/claude-valut)
-- [Knowledge-Base](https://github.com/ShannonReed-Dev/Knowledge-Base)
