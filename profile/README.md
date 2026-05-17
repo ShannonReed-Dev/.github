@@ -1,27 +1,27 @@
 # Shannon Reed Dev
 
-- [Accessing Claude/Anthropic API](https://github.com/ShannonReed-Dev/super-giggle)
-  - Accessing the API
-  - Getting an API key
-  - Making a request
-  - Multi-Turn conversations
-  - Chat exercise
-  - System prompts
-  - System prompts exercise
-  - Temperature
-  - Response streaming
-  - Structured data
-- [Understanding prompt engineering and prompt evaluation](https://github.com/ShannonReed-Dev/super-succotash)
-  - Prompt evaluation
-  - A typical eval workflow
-  - Generating test datasets
-  - Running the eval
-  - Model based grading
-  - Code based grading
-  - Exercise on prompt evals
-  - Quiz on prompt evaluation
-  - Prompt engineering
-  - Being clear and direct
-  - Being specific
-  - Structure with XML tags
-  - Providing examples
+#### [Accessing Claude/Anthropic API](https://github.com/ShannonReed-Dev/super-giggle)
+- Accessing the API
+- Getting an API key
+- Making a request
+- Multi-Turn conversations
+- Chat exercise
+- System prompts
+- System prompts exercise
+- Temperature
+- Response streaming
+- Structured data
+#### [Understanding prompt engineering and prompt evaluation](https://github.com/ShannonReed-Dev/super-succotash)
+- Prompt evaluation
+- A typical eval workflow
+- Generating test datasets
+- Running the eval
+- Model based grading
+- Code based grading
+- Exercise on prompt evals
+- Quiz on prompt evaluation
+- Prompt engineering
+- Being clear and direct
+- Being specific
+- Structure with XML tags
+- Providing examples
