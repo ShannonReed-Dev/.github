@@ -11,6 +11,7 @@
 - Temperature
 - Response streaming
 - Structured data
+- [Accessing Claude/Anthropic API : Typescript](https://github.com/ShannonReed-Dev/rolling-palm-tree)
 #### [Understanding prompt engineering and prompt evaluation](https://github.com/ShannonReed-Dev/super-succotash)
 - Prompt evaluation
 - A typical eval workflow
@@ -25,3 +26,4 @@
 - Being specific
 - Structure with XML tags
 - Providing examples
+#### [Tool use with Claude](https://github.com/ShannonReed-Dev/super-eureka)
