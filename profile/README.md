@@ -1,16 +1,6 @@
 # Shannon Reed Dev
 
-#### [Accessing Claude/Anthropic API](https://github.com/ShannonReed-Dev/super-giggle)
-- Accessing the API
-- Getting an API key
-- Making a request
-- Multi-Turn conversations
-- Chat exercise
-- System prompts
-- System prompts exercise
-- Temperature
-- Response streaming
-- Structured data
+- [Accessing Claude/Anthropic API : Python](https://github.com/ShannonReed-Dev/super-giggle)
 - [Accessing Claude/Anthropic API : Typescript](https://github.com/ShannonReed-Dev/rolling-palm-tree)
 #### [Understanding prompt engineering and prompt evaluation](https://github.com/ShannonReed-Dev/super-succotash)
 - Prompt evaluation
